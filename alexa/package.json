@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "request": "^2.81.0"
+  }
+}
